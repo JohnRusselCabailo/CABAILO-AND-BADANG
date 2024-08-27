@@ -19,5 +19,7 @@ namespace PS02_02
         else {
             Console.WriteLine($"The String {input} is not a palindrome");
         }
+
+        }
     }
 }
